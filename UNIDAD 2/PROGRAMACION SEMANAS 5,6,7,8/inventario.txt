@@ -1,0 +1,4 @@
+21001,Camisas,50,25.0
+20021,Pantalones,45,27.0
+30031,Correas ,35,7.0
+09384,Celulares,15,1800.0
