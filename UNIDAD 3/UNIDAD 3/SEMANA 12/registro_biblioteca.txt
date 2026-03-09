@@ -1,0 +1,64 @@
+{
+    "inventario": {
+        "LIT001": {
+            "nombre": "Orgullo y Prejuicio",
+            "creador": "Jane Austen",
+            "genero": "Romance",
+            "codigo": "LIT001"
+        },
+        "HAB002": {
+            "nombre": "H\u00e1bitos At\u00f3micos",
+            "creador": "James Clear",
+            "genero": "Desarrollo Personal",
+            "codigo": "HAB002"
+        },
+        "MYS003": {
+            "nombre": "El C\u00f3digo Da Vinci",
+            "creador": "Dan Brown",
+            "genero": "Misterio",
+            "codigo": "MYS003"
+        },
+        "GIT404": {
+            "nombre": "Pro Git",
+            "creador": "Scott Chacon",
+            "genero": "Programaci\u00f3n",
+            "codigo": "GIT404"
+        }
+    },
+    "clientes": {
+        "W100": {
+            "nombre_completo": "Priscila",
+            "identificacion": "W100",
+            "materiales_retirados": []
+        },
+        "W200": {
+            "nombre_completo": "Juan",
+            "identificacion": "W200",
+            "materiales_retirados": []
+        },
+        "W300": {
+            "nombre_completo": "Carlos",
+            "identificacion": "W300",
+            "materiales_retirados": [
+                {
+                    "nombre": "Maestr\u00eda en Mariscos y Pescados",
+                    "creador": "Rick Stein",
+                    "genero": "Gastronom\u00eda",
+                    "codigo": "CHEF606"
+                }
+            ]
+        },
+        "W400": {
+            "nombre_completo": "KEVIN",
+            "identificacion": "W400",
+            "materiales_retirados": [
+                {
+                    "nombre": "C\u00e1lculo Multivariable",
+                    "creador": "James Stewart",
+                    "genero": "Matem\u00e1ticas",
+                    "codigo": "CALC505"
+                }
+            ]
+        }
+    }
+}
